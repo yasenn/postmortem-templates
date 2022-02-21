@@ -10,6 +10,7 @@ This is a collection of postmortem templates derived from various sources such a
 * [Template from Michael Kehoe's blog post](templates/postmortem-template-michael.kehoe.md)
 * [Template from the Real-World SRE book](templates/postmortem-template-real-world-sre.md)
 * [Template from Elastic Cloud incident report](templates/postmortem-template-elastic.md)
+* [Template from Atlassian incident Handbook](templates/postmortem-template-atlassian-incident-handbook.md)
 
 ## Load templates automatically
 
@@ -57,7 +58,11 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [re:Work- Postmortem discussion template](https://docs.google.com/document/d/1ob0dfG_gefr_gQ8kbKr0kS4XpaKbc0oVAk4Te9tbDqM/edit)
 * [Wheel of Misfortune Game](https://dastergon.gr/wheel-of-misfortune/)
 * [Post-Incident Review Template by VictorOps](https://victorops.com/blog/the-post-incident-review-template-you-ve-always-needed)
-* [Atlassian Incident Handbook: Incident Postmortems](https://www.atlassian.com/software/jira/ops/handbook/incident-postmortems)
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 * [Best engineering practices: how to fix a bug?](https://sobolevn.me/2019/01/how-to-fix-a-bug)
 * [Beginners Guide to Incident Postmortems](https://rootly.io/blog/beginners-guide-to-incident-postmortems)
+* [Incident Management Handbook | Atlassian](https://www.atlassian.com/incident-management/handbook/postmortems)
+* [How to run a blameless postmortem | Atlassian](https://www.atlassian.com/incident-management/postmortem/blameless)
+* [Creating postmortem reports | Atlassian](https://www.atlassian.com/incident-management/postmortem/reports)
+* [How to set up and run an incident postmortem meeting](https://www.atlassian.com/incident-management/postmortem/meeting)
+* [Incident timelines (and why they matter) | Atlassian](https://www.atlassian.com/incident-management/postmortem/timelines)
