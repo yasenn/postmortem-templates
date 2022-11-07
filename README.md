@@ -39,6 +39,7 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [Elastic Cloud Incident Report: February 4, 2019](https://www.elastic.co/blog/elastic-cloud-incident-report-feburary-4-2019)
 
 ### Postmortem resources
+
 * [Learn out of mistakes. Postmortems to the rescue.](https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/)
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
@@ -61,12 +62,9 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 * [Best engineering practices: how to fix a bug?](https://sobolevn.me/2019/01/how-to-fix-a-bug)
 * [Beginners Guide to Incident Postmortems](https://rootly.io/blog/beginners-guide-to-incident-postmortems)
-* [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
-* [Best engineering practices: how to fix a bug?](https://sobolevn.me/2019/01/how-to-fix-a-bug)
-* [Beginners Guide to Incident Postmortems](https://rootly.io/blog/beginners-guide-to-incident-postmortems)
 * [Documents on how to create and use postmortem templates using Squadcast](https://support.squadcast.com/docs/postmortem-templates)
 
-### Atlassian
+####  Postmortem resources by Atlassian
 
 * [Atlassian Incident Handbook: Incident Postmortems](https://www.atlassian.com/software/jira/ops/handbook/incident-postmortems)
 * [Incident Management Handbook | Atlassian](https://www.atlassian.com/incident-management/handbook/postmortems)
