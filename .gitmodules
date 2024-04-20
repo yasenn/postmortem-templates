@@ -1,0 +1,12 @@
+[submodule "awesome/awesome-tech-postmortems"]
+	path = awesome/awesome-tech-postmortems
+	url = https://github.com/snakescott/awesome-tech-postmortems
+[submodule "awesome/awesome-postmortem"]
+	path = awesome/awesome-postmortem
+	url = https://github.com/saystone/awesome-postmortem
+[submodule "awesome/awesome-postmortems"]
+	path = awesome/awesome-postmortems
+	url = https://github.com/carlsborg/awesome-postmortems
+[submodule "awesome/awesome-ddos-postmortem"]
+	path = awesome/awesome-ddos-postmortem
+	url = https://github.com/craig/awesome-ddos-postmortem
